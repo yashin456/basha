@@ -1,0 +1,34 @@
+#logo{
+    margin-left: 50px;
+}
+#one{
+    margin-top: 2px;
+}
+#add  ul li{
+    color:red;
+}
+
+.nav-wrapper{
+    background-color: #6f4037;
+}
+.slider .indicators .indicator-item.active {
+    background-color: #6f4037;
+}
+/* .move{
+    margin-top:10px;
+} */
+.parallax-container{
+    min-height: 280px;
+    height: auto;
+}
+
+.icon-coffee{
+    color:#6f4037;
+    /* background-color: aliceblue; */
+}
+.footer-one{
+    background-color: #6f4037;
+}
+.footer-two{
+    background-color: #22110d;
+}
